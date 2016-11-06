@@ -6,3 +6,6 @@ a collection of data analysis applications in R and Python
 
 ![distances of stations](https://github.com/kpyuan1776/mvv_analyse/blob/master/mvvanalyse.png)
 
+# installation:
+  * needs https://github.com/googlemaps/google-maps-services-python
+
